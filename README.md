@@ -2,9 +2,18 @@
 
 ## Project Overview
 
-This project analyzes customer shopping behaviour using Python, PostgreSQL, and Power BI.
+An end-to-end data analytics project focused on understanding customer shopping behaviour and purchasing patterns.
 
-The objective is to understand customer purchasing patterns, product categories, customer demographics, subscription behaviour, payment methods, and seasonal sales performance.
+The project uses **Python, PostgreSQL, and Power BI** to clean, analyze, and visualize customer data and generate business insights.
+
+### Key Highlights
+
+- Analyzed **3,900 customer records**
+- Examined customer demographics, purchasing patterns, categories, payment methods, discounts, subscriptions, and seasons
+- Performed data cleaning and feature engineering using Python
+- Integrated the cleaned data with PostgreSQL
+- Created an interactive Power BI dashboard
+- Identified key sales and customer behaviour trends
 
 ## Tools & Technologies
 
