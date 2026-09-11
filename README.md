@@ -66,6 +66,12 @@ The project includes a Power BI dashboard showing:
 - Age-group analysis
 - Revenue by category
 - Revenue by season
+### Dashboard Preview
+
+![Customer Behavior Dashboard](Customer_Behavior_Dashboard.png)
+## Project Report
+
+[View Project Report](Customer_Shopping_Behaviour_Analytics_Report_Final_NewPageLayout.pdf)
 
 ## Project Structure
 
