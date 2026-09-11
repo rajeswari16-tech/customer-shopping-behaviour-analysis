@@ -1,5 +1,15 @@
 # Customer Shopping Behaviour Analysis
 
+<p align="center">
+  <b>Python • PostgreSQL • Power BI • Data Analytics</b>
+</p>
+
+---
+
+## 🎯 Objective
+
+To analyze customer shopping behaviour, identify purchasing patterns, and generate actionable business insights using data analytics and visualization.
+
 ## Project Overview
 
 An end-to-end data analytics project focused on understanding customer shopping behaviour and purchasing patterns.
